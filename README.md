@@ -1,2 +1,2 @@
 # public-roadmap
-Timeless roadmap of Sequence Wallet
+Sequence's Timeless Roadmap
